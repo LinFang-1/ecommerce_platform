@@ -1,2 +1,1 @@
-# ecommerce_platform
-设计一个分布式电商平台，包含以下核心服务：用户服务、商品服务、订单服务、库存服务、支付服务等。我们将使用Spring Cloud作为微服务框架，Dubbo作为RPC框架，Zookeeper作为注册中心，Redis作为缓存，MyBatis作为ORM框架，前端使用Vue+Element-UI，同时使用jQuery处理一些兼容性需求。项目将部署在Linux服务器上，使用Tomcat作为Servlet容器，并通过GitHub进行版本管理。
+分布式电商平台，包含以下核心服务：用户服务、商品服务、订单服务、库存服务、支付服务等。我们将使用Spring Cloud作为微服务框架，Dubbo作为RPC框架，Zookeeper作为注册中心，Redis作为缓存，MyBatis作为ORM框架，前端使用Vue+Element-UI，同时使用jQuery处理一些兼容性需求。项目将部署在Linux服务器上，使用Tomcat作为Servlet容器，并通过GitHub进行版本管理。
